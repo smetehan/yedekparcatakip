@@ -32,6 +32,7 @@ export default function CarModal({
     }
 
     setInfo({});
+    setOpen(false);
   };
 
   return (
